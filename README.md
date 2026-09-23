@@ -2,10 +2,15 @@
 
 > My personal vault of penetration-testing and CTF writeups — TryHackMe, HackTheBox, OverTheWire, HackViser, HackSmarter, and assorted CTFs. Written as I solved them, kept in Obsidian, and published to GitBook.
 
+<<<<<<< HEAD
 [![Read on GitBook](https://img.shields.io/badge/Read%20on-GitBook-3884FF?logo=gitbook&logoColor=white)](https://YOUR-SPACE.gitbook.io/writeups)
 [![Writeups](https://img.shields.io/badge/writeups-231-brightgreen)]()
 [![Platforms](https://img.shields.io/badge/platforms-6-blue)]()
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)](https://creativecommons.org/licenses/by/4.0/)
+=======
+[![Read on GitBook](https://img.shields.io/badge/Read%20on-GitBook-3884FF?logo=gitbook&logoColor=white)](https://your-space.gitbook.io/writeups) [![Writeups](https://img.shields.io/badge/writeups-231-brightgreen)](https://claude.ai/chat/0c3aa75e-b7af-44df-8bdd-6bf0d734147a) [![Platforms](https://img.shields.io/badge/platforms-6-blue)](https://claude.ai/chat/0c3aa75e-b7af-44df-8bdd-6bf0d734147a) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)](https://creativecommons.org/licenses/by/4.0/)
+
+> > > > > > > e0d746cc89714108f7036fca3c16a2ac9e963cea
 
 📖 **Rendered version:** https://YOUR-SPACE.gitbook.io/writeups
 
@@ -19,6 +24,7 @@ The goal is understanding, not flag-copying. **Passwords, cracked hashes, and fl
 
 ## 📊 What's Inside
 
+<<<<<<< HEAD
 | Platform | Writeups | Focus |
 | --- | ---: | --- |
 | 🟦 **TryHackMe** | 155 | Boot2root machines, AD, forensics, seasonal CTFs |
@@ -28,6 +34,18 @@ The goal is understanding, not flag-copying. **Passwords, cracked hashes, and fl
 | 🏴 **CTFs** | 7 | BSides, Payatu, Hego LLM range, one-offs |
 | 💼 **HackSmarter** | 4 | Assumed-breach AD red-team labs |
 | | **231** | |
+=======
+|Platform|Writeups|Focus|
+|---|--:|---|
+|🟦 **TryHackMe**|155|Boot2root machines, AD, forensics, seasonal CTFs|
+|🎮 **OverTheWire**|35|Bandit wargame, full level-by-level|
+|🟩 **HackTheBox**|22|Machines, challenges, Seasons 8–11|
+|🛡️ **HackViser**|8|Warmup range (SQLi, file upload, etc.)|
+|🏴 **CTFs**|7|BSides, Payatu, Hego LLM range, one-offs|
+|💼 **HackSmarter**|4|Assumed-breach AD red-team labs|
+||**231**||
+
+> > > > > > > e0d746cc89714108f7036fca3c16a2ac9e963cea
 
 ## 🗂️ Structure
 
@@ -59,25 +77,41 @@ Most sections have a `README.md` acting as a short intro / landing page for that
 Writeups follow a consistent shape so they're easy to skim:
 
 ```markdown
-## Description        # official machine/challenge brief
-## IP-Address         # target(s)
-## Enumeration        # RustScan / Nmap, service discovery
-## Exploitation       # foothold — the actual vuln and how it was abused
+## Description # official machine/challenge brief
+
+## IP-Address # target(s)
+
+## Enumeration # RustScan / Nmap, service discovery
+
+## Exploitation # foothold — the actual vuln and how it was abused
+
 ## Privilege Escalation
-## Flag               # [flag omitted]
+
+## Flag # [flag omitted]
 ```
+
+<<<<<<< HEAD
 
 > ℹ️ **Notes:** Files are authored in Obsidian, so a few may contain wiki-style
 > `[[links]]` or `![[image embeds]]` that render best there. On GitBook these
 > resolve as normal links/images once assets are synced.
+> =======
+> ℹ️ **Notes:** Files are authored in Obsidian, so a few may contain wiki-style `[[links]]` or `![[image embeds]]` that render best there. On GitBook these resolve as normal links/images once assets are synced.
+>
+> > > > > > > e0d746cc89714108f7036fca3c16a2ac9e963cea
 
 ## 🧰 Tooling You'll See a Lot
 
 Reconnaissance and exploitation lean on a familiar toolkit:
 
+<<<<<<< HEAD
 `RustScan` · `Nmap` · `ffuf` / `gobuster` / `feroxbuster` · `Burp Suite` ·
 `Hydra` · `WPScan` · `sqlmap` · `Impacket` · `NetExec / nxc` · `BloodHound` ·
 `Certipy` · `Kerbrute` · `evil-winrm` · `John` / `Hashcat` · `LinPEAS` · `Ligolo`
+=======
+`RustScan` · `Nmap` · `ffuf` / `gobuster` / `feroxbuster` · `Burp Suite` · `Hydra` · `WPScan` · `sqlmap` · `Impacket` · `NetExec / nxc` · `BloodHound` · `Certipy` · `Kerbrute` · `evil-winrm` · `John` / `Hashcat` · `LinPEAS` · `Ligolo`
+
+> > > > > > > e0d746cc89714108f7036fca3c16a2ac9e963cea
 
 ## ⚙️ GitBook Sync
 
@@ -99,6 +133,7 @@ structure:
 ## ➕ Adding a Writeup
 
 1. Create the note under the right platform/difficulty folder.
+   <<<<<<< HEAD
 2. Keep to the format above and **omit all flags, passwords, and hashes.**
 3. Add the entry to `SUMMARY.md`.
 4. Commit and push:
@@ -123,4 +158,28 @@ code snippets: MIT unless noted otherwise.
 
 ---
 
+# ⭐ If a writeup helped you get unstuck, a star is appreciated.
+
+2. Keep to the format above and **omit all flags, passwords, and hashes.**
+3. Add the entry to `SUMMARY.md`.
+4. Commit and push:
+
+   ```bash
+   git add .
+   git commit -m "Add writeup: <platform> - <name>"
+   git push
+   ```
+
+## ⚠️ Disclaimer
+
+For **educational and ethical-hacking purposes only.** Everything here targets intentionally vulnerable lab machines or CTF challenges. Event/CTF writeups are published after the event ends; HTB content only after retirement. Never apply these techniques to systems you don't have explicit permission to test.
+
+## 📄 License
+
+Writeups: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Scripts and code snippets: MIT unless noted otherwise.
+
+---
+
 ⭐ If a writeup helped you get unstuck, a star is appreciated.
+
+> > > > > > > e0d746cc89714108f7036fca3c16a2ac9e963cea
