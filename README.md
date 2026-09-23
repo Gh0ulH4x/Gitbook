@@ -26,7 +26,7 @@ The goal is understanding, not flag-copying. **Passwords, cracked hashes, and fl
 | <img src=".gitbook/assets/Bandit.png" height="20" alt=""> **OverTheWire**      |       35 | Bandit wargame, full level-by-level              |
 | <img src=".gitbook/assets/Hackviser.png" height="20" alt=""> **HackViser**     |        8 | Warmup range (SQLi, file upload, etc.)           |
 | <img src=".gitbook/assets/HackSmarter.png" height="20" alt=""> **HackSmarter** |        4 | Assumed-breach AD red-team labs                  |
-| **CTFs**                                                                       |        7 | BSides, Payatu, Hego LLM range, one-offs         |
+| <img src=".gitbook/assets/CTF.png" height="20" alt=""> **CTFs**                |        7 | BSides, Payatu, Hego LLM range, one-offs         |
 |                                                                                |  **231** |                                                  |
 
 ## 🗂️ Structure
