@@ -19,15 +19,15 @@ The goal is understanding, not flag-copying. **Passwords, cracked hashes, and fl
 
 ## 📊 What's Inside
 
-| Platform | Writeups | Focus |
-| --- | ---: | --- |
-| [![TryHackMe](https://img.shields.io/badge/-212C42?logo=tryhackme&logoColor=white)](https://tryhackme.com) | 155 | Boot2root machines, AD, forensics, seasonal CTFs |
-| [![HackTheBox](https://img.shields.io/badge/-9FEF00?logo=hackthebox&logoColor=black)](https://hackthebox.com) | 22 | Machines, challenges, Seasons 8–11 |
-| ![OverTheWire](https://img.shields.io/badge/-1A1A1A?logo=gnubash&logoColor=white) | 35 | Bandit wargame, full level-by-level |
-| ![HackViser](https://img.shields.io/badge/-6C4BF4?logo=data:image/svg+xml;base64,) | 8 | Warmup range (SQLi, file upload, etc.) |
-| ![HackSmarter](https://img.shields.io/badge/-E63946?logo=data:image/svg+xml;base64,) | 7 | Assumed-breach AD red-team labs |
-| ![CTFs](https://img.shields.io/badge/-000000?logo=flag) | 7 | BSides, Payatu, Hego LLM range, one-offs |
-| | **231** | |
+| Platform                                                                             | Writeups | Focus                                            |
+| ------------------------------------------------------------------------------------ | -------: | ------------------------------------------------ |
+| <img src=".gitbook/assets/logos/tryhackme.png" height="20" alt=""> **TryHackMe**     |      155 | Boot2root machines, AD, forensics, seasonal CTFs |
+| <img src=".gitbook/assets/logos/hackthebox.png" height="20" alt=""> **HackTheBox**   |       22 | Machines, challenges, Seasons 8–11               |
+| <img src=".gitbook/assets/logos/overthewire.png" height="20" alt=""> **OverTheWire** |       35 | Bandit wargame, full level-by-level              |
+| <img src=".gitbook/assets/logos/hackviser.png" height="20" alt=""> **HackViser**     |        8 | Warmup range (SQLi, file upload, etc.)           |
+| <img src=".gitbook/assets/logos/hacksmarter.png" height="20" alt=""> **HackSmarter** |        4 | Assumed-breach AD red-team labs                  |
+| <img src=".gitbook/assets/logos/ctf.png" height="20" alt=""> **CTFs**                |        7 | BSides, Payatu, Hego LLM range, one-offs         |
+|                                                                                      |  **231** |                                                  |
 
 ## 🗂️ Structure
 
