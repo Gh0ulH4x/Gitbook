@@ -19,15 +19,15 @@ The goal is understanding, not flag-copying. **Passwords, cracked hashes, and fl
 
 ## 📊 What's Inside
 
-| Platform                                                                             | Writeups | Focus                                            |
-| ------------------------------------------------------------------------------------ | -------: | ------------------------------------------------ |
-| <img src=".gitbook/assets/logos/tryhackme.png" height="20" alt=""> **TryHackMe**     |      155 | Boot2root machines, AD, forensics, seasonal CTFs |
-| <img src=".gitbook/assets/logos/hackthebox.png" height="20" alt=""> **HackTheBox**   |       22 | Machines, challenges, Seasons 8–11               |
-| <img src=".gitbook/assets/logos/overthewire.png" height="20" alt=""> **OverTheWire** |       35 | Bandit wargame, full level-by-level              |
-| <img src=".gitbook/assets/logos/hackviser.png" height="20" alt=""> **HackViser**     |        8 | Warmup range (SQLi, file upload, etc.)           |
-| <img src=".gitbook/assets/logos/hacksmarter.png" height="20" alt=""> **HackSmarter** |        4 | Assumed-breach AD red-team labs                  |
-| <img src=".gitbook/assets/logos/ctf.png" height="20" alt=""> **CTFs**                |        7 | BSides, Payatu, Hego LLM range, one-offs         |
-|                                                                                      |  **231** |                                                  |
+| Platform                                                                       | Writeups | Focus                                            |
+| ------------------------------------------------------------------------------ | -------: | ------------------------------------------------ |
+| <img src=".gitbook/assets/tryhackme.png" height="20" alt=""> **TryHackMe**     |      155 | Boot2root machines, AD, forensics, seasonal CTFs |
+| <img src=".gitbook/assets/hackthebox.png" height="20" alt=""> **HackTheBox**   |       22 | Machines, challenges, Seasons 8–11               |
+| <img src=".gitbook/assets/overthewire.png" height="20" alt=""> **OverTheWire** |       35 | Bandit wargame, full level-by-level              |
+| <img src=".gitbook/assets/hackviser.png" height="20" alt=""> **HackViser**     |        8 | Warmup range (SQLi, file upload, etc.)           |
+| <img src=".gitbook/assets/hacksmarter.png" height="20" alt=""> **HackSmarter** |        4 | Assumed-breach AD red-team labs                  |
+| <img src=".gitbook/assets/ctf.png" height="20" alt=""> **CTFs**                |        7 | BSides, Payatu, Hego LLM range, one-offs         |
+|                                                                                |  **231** |                                                  |
 
 ## 🗂️ Structure
 
