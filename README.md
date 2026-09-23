@@ -101,19 +101,6 @@ structure:
   summary: SUMMARY.md
 ```
 
-## ➕ Adding a Writeup
-
-1. Create the note under the right platform/difficulty folder.
-2. Keep to the format above and **omit all flags, passwords, and hashes.**
-3. Add the entry to `SUMMARY.md`.
-4. Commit and push:
-
-   ```bash
-   git add .
-   git commit -m "Add writeup: <platform> - <name>"
-   git push
-   ```
-
 ## ⚠️ Disclaimer
 
 For **educational and ethical-hacking purposes only.** Everything here targets
