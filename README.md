@@ -2,7 +2,7 @@
 
 > My personal vault of penetration-testing and CTF writeups — TryHackMe, HackTheBox, OverTheWire, HackViser, HackSmarter, and assorted CTFs. Written as I solved them, kept in Obsidian, and published to GitBook.
 
-[![Read on GitBook](https://img.shields.io/badge/Read%20on-GitBook-3884FF?logo=gitbook&logoColor=white)](https://YOUR-SPACE.gitbook.io/writeups)
+[![Read on GitBook](https://img.shields.io/badge/Read%20on-GitBook-3884FF?logo=gitbook&logoColor=white)](https://gh0ulh4x.gitbook.io/writeups)
 [![Writeups](https://img.shields.io/badge/writeups-231-brightgreen)]()
 [![Platforms](https://img.shields.io/badge/platforms-6-blue)]()
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)](https://creativecommons.org/licenses/by/4.0/)
@@ -19,15 +19,15 @@ The goal is understanding, not flag-copying. **Passwords, cracked hashes, and fl
 
 ## 📊 What's Inside
 
-| Platform           | Writeups | Focus                                            |
-| ------------------ | -------: | ------------------------------------------------ |
-| 🟦 **TryHackMe**   |      155 | Boot2root machines, AD, forensics, seasonal CTFs |
-| 🎮 **OverTheWire** |       35 | Bandit wargame, full level-by-level              |
-| 🟩 **HackTheBox**  |       22 | Machines, challenges, Seasons 8–11               |
-| 🛡️ **HackViser**   |        8 | Warmup range (SQLi, file upload, etc.)           |
-| 🏴 **CTFs**        |        7 | BSides, Payatu, Hego LLM range, one-offs         |
-| 💼 **HackSmarter** |        4 | Assumed-breach AD red-team labs                  |
-|                    |  **231** |                                                  |
+| Platform | Writeups | Focus |
+| --- | ---: | --- |
+| [![TryHackMe](https://img.shields.io/badge/-212C42?logo=tryhackme&logoColor=white)](https://tryhackme.com) | 155 | Boot2root machines, AD, forensics, seasonal CTFs |
+| [![HackTheBox](https://img.shields.io/badge/-9FEF00?logo=hackthebox&logoColor=black)](https://hackthebox.com) | 22 | Machines, challenges, Seasons 8–11 |
+| ![OverTheWire](https://img.shields.io/badge/-1A1A1A?logo=gnubash&logoColor=white) | 35 | Bandit wargame, full level-by-level |
+| ![HackViser](https://img.shields.io/badge/-6C4BF4?logo=data:image/svg+xml;base64,) | 8 | Warmup range (SQLi, file upload, etc.) |
+| ![HackSmarter](https://img.shields.io/badge/-E63946?logo=data:image/svg+xml;base64,) | 7 | Assumed-breach AD red-team labs |
+| ![CTFs](https://img.shields.io/badge/-000000?logo=flag) | 7 | BSides, Payatu, Hego LLM range, one-offs |
+| | **231** | |
 
 ## 🗂️ Structure
 
