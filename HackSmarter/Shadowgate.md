@@ -1,4 +1,4 @@
-## Description
+## Shadowgate
 _Passwords, cracked hashes, and flags have been omitted from this writeup per platform guidelines._
 
 ```Description
