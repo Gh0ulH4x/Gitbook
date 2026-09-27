@@ -2,7 +2,7 @@
 
 > My personal vault of penetration-testing and CTF writeups — TryHackMe, HackTheBox, OverTheWire, HackViser, HackSmarter, and assorted CTFs. Written as I solved them, kept in Obsidian, and published to GitBook.
 
-[![Read on GitBook](https://img.shields.io/badge/Read%20on-GitBook-3884FF?logo=gitbook&logoColor=white)](https://gh0ulh4x.gitbook.io/gh0ulh4x/ctf-writeups)
+[![Read on GitBook](https://img.shields.io/badge/Read%20on-GitBook-3884FF?logo=gitbook&logoColor=white)][(https://gh0ulh4x.gitbook.io/gh0ulh4x/ctf-writeups)](https://gh0ulh4x.gitbook.io/gh0ulh4x/ctf-writeups)
 [![Writeups](https://img.shields.io/badge/writeups-231-brightgreen)]()
 [![Platforms](https://img.shields.io/badge/platforms-6-blue)]()
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)](https://creativecommons.org/licenses/by/4.0/)
