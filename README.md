@@ -27,7 +27,7 @@ The goal is understanding, not flag-copying. **Passwords, cracked hashes, and fl
 | <img src=".gitbook/assets/Hackviser-icon.png" alt=""> **HackViser**     |        8 | Warmup range (SQLi, file upload, etc.)           |
 | <img src=".gitbook/assets/HackSmarter-icon.png" alt=""> **HackSmarter** |        6 | Assumed-breach AD red-team labs                  |
 | <img src=".gitbook/assets/CTF-icon.png" alt=""> **CTFs**                |        7 | BSides, Payatu, Hego LLM range, one-offs         |
-|                                                                         |  **231** |                                                  |
+|                                                                         |  **233** |                                                  |
 
 ## 🗂️ Structure
 
