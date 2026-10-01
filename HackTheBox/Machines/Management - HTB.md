@@ -1,4 +1,4 @@
-****# HTB Management — Write-up
+# HTB Management — Write-up
 Oct 1, 2026 · @Gh0ulH4x
 
 ---
