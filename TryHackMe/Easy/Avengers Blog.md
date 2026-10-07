@@ -168,13 +168,13 @@ This transcript jumps straight from Flag 3 (FTP) to Flag 5 (JARVIS command execu
 
 ## Flag Summary
 
-|#|Flag|Method|
-|---|---|---|
-|1|`cookie_secrets`|Browser cookie set by `script.js`|
-|2|`headers_are_important`|Custom HTTP response header|
-|3|`8fc651a739befc58d450dc48e1f1fd2e`|Anonymous FTP file download|
-|4|_(not yet found)_|Likely in `/portal` SQLi dump or dashboard|
-|5|`d335e2d13f36558ba1e67969a1718af7`|Command execution via JARVIS interface post-SQLi|
+| #   | Flag                               | Method                                           |
+| --- | ---------------------------------- | ------------------------------------------------ |
+| 1   | `cookie_secrets`                   | Browser cookie set by `script.js`                |
+| 2   | `headers_are_important`            | Custom HTTP response header                      |
+| 3   | `8fc651a739befc58d450dc48e1f1fd2e` | Anonymous FTP file download                      |
+| 4   | `233`                              | `/portal` line Source code                       |
+| 5   | `d335e2d13f36558ba1e67969a1718af7` | Command execution via JARVIS interface post-SQLi |
 
 ---
 
