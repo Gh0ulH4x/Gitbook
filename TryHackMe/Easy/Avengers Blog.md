@@ -155,11 +155,11 @@ $ cat /home/ubuntu/flag5.txt
 **Flag 5:** `d335e2d13f36558ba1e67969a1718af7`
 
 ---
-## ⚠️ Flag 4 — Missing From This Walkthrough
+##  Flag 4 
 
-This transcript jumps straight from Flag 3 (FTP) to Flag 5 (JARVIS command execution) — **Flag 4 was never captured**. Based on the room's structure, Flag 4 most likely sits in one of these spots and is worth revisiting:
+This transcript jumps straight from Flag 3 (FTP) to Flag 5 (JARVIS command execution) — 
 
-- **Inside the `/portal` page source or login response** before/after the SQLi bypass (view-source or `curl` the portal page directly).
+- **Inside the `/portal` page source code lines `233` or login response** before/after the SQLi bypass (view-source or `curl` the portal page directly).
 - **In the dumped database contents** — since the injection point accepts arbitrary SQL, a `UNION SELECT` against the Users table (or any other table) may surface it as a username/password field value.
 - **On the JARVIS dashboard itself**, before dropping into the command-execution shell (check the page that loads right after login, not just the shell).
 - **Via further FTP/file enumeration** — the `files` directory on FTP might hold more than just `flag3.txt` if listed with `ls -la` instead of `ls`.
